@@ -4,7 +4,7 @@ import Page1 from './Page1/Page1'
 
 const App = () => {
   return (
-    <div className='mt-5'>
+    <div className=''>
 
       <Navbar/>
       <Page1/>
