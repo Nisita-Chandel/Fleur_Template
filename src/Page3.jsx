@@ -29,7 +29,7 @@ const Page3 = () => {
         { arr.map((elem,idx) =>(
 
 
-       <div className='bg-black h-100 w-90 ml-30 rounded-t-full mb-20 overflow-hidden ' key ={idx} >
+       <div className='bg-black h-100 w-90 ml-35 rounded-t-full mb-20 overflow-hidden ' key ={idx} >
             <img className='' src= {elem.img} alt="" />
          
            <div className='absolute top-300 bg-[#E6CDB9] w-90 h-41 text-center ' >
